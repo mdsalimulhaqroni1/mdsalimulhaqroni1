@@ -5,8 +5,8 @@ For contact email me 📧: 2014751043@uits.edu.bd
 
 ### 🏆 Github Stats
 
-  <img  src="https://github-readme-stats.vercel.app/api?username=MdSalimulHaqRoni&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=MdSalimulHaqRoni&theme=dark&show_icons=true&hide_border=true" width="48%" >
+  <img  src="https://github-readme-stats.vercel.app/api?username=Mdsalimulhaqroni1&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Mdsalimulhaqroni1&theme=dark&show_icons=true&hide_border=true" width="48%" >
 
   <p align="center">
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MdSalimulHaqRoni&theme=dark&show_icons=true&hide_border=true&layout=compact" width="48%"/>
@@ -15,7 +15,7 @@ For contact email me 📧: 2014751043@uits.edu.bd
 
 
 ### Total Visitors 👀
-<img src="https://profile-counter.glitch.me/MdSalimulHaqRoni/count.svg" alt="Visitor Count"/>
+<img src="https://profile-counter.glitch.me/Mdsalimulhaqroni1/count.svg" alt="Visitor Count"/>
 
 ### Connect with me:
 
